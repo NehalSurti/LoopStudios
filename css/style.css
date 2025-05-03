@@ -581,6 +581,10 @@ h5 {
   position: fixed;
 }
 
+.absolute {
+  position: absolute;
+}
+
 .relative {
   position: relative;
 }
@@ -603,10 +607,6 @@ h5 {
 
 .z-40 {
   z-index: 40;
-}
-
-.-z-50 {
-  z-index: -50;
 }
 
 .mx-auto {
